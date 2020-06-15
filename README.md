@@ -1,4 +1,4 @@
-#HinesAlgorithm-OpenMP
+# HinesAlgorithm-OpenMP
 
 Parallel version of Hines algorithm (a core step in neuron simulation, see: [https://doi.org/10.1016/j.procs.2017.05.145](https://doi.org/10.1016/j.procs.2017.05.145)) written in OpenMP.
 
